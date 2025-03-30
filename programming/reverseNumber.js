@@ -17,4 +17,4 @@ const reverseNumberVal = (number) => {
   return reverseNum;
 };
 
-console.log("1234: ", reverseNumberVal(1234));
+// console.log("1234: ", reverseNumberVal(1234));
